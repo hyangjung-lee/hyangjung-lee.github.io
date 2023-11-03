@@ -27,8 +27,7 @@ Before that, I graduated from <a href='https://cls.snu.ac.kr/en/'>College of Lib
 
 My passion lies at the intersection of human and machine intelligence, with an emphasis on structured knowledge, learning, and decision-making, including perceptual and causal judgments. 
 
-During my PhD, I focus on corrective feedback, particularly in the context of perceptual decision-making. 
-<br>I develop models using Bayesian decision theory and reinforcement learning to emulate human-like behavior. My research goal is to uncover human learning from feedback, to gain a deeper understanding of complex human intelligence by investigating the richness of its behavior, and ultimately to work towards building artificial intelligent systems that have the potential to empower individuals by incorporating their biological aspects, such as the brain and physiology. 
+During my PhD, I focus on corrective feedback, particularly in the context of perceptual decision-making. <br>I develop models using Bayesian decision theory and reinforcement learning to emulate human-like behavior. My research goal is to uncover human learning from feedback, to gain a deeper understanding of complex human intelligence by investigating the richness of its behavior, and ultimately to work towards building artificial intelligent systems that have the potential to empower individuals by incorporating their biological aspects, such as the brain and physiology. 
 
 
 

@@ -264,7 +264,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['feedback', 'learning', 'decision-making', 'counterfactual mental simulation', 'structured knowledge','probabilistic inference', 'resource-rationality','human-centered AI' ] # these tags will be displayed on the front page of your blog
+display_tags: ['feedback', 'learning', 'decision-making', 'counterfactual simulation', 'structured knowledge','probabilistic inference', 'resource-rationality','human-centered AI','digital health' ] # these tags will be displayed on the front page of your blog
 display_categories: "" # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
